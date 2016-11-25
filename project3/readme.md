@@ -11,7 +11,7 @@
 
 
 ## Code Example
-Movie objects are instantiated in "entertainment_center.py" as follows:
+Movie objects are instantiated in **entertainment_center.py** as follows:
 
 `godfather = media.Movie("The GodFather",
                         "A light hearted frolic into the lives of a hilarious Italian family",
