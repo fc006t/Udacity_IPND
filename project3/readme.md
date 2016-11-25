@@ -31,8 +31,8 @@ These python files were created to satisfy Stage 3, Final Project, IPND, Udacity
 ## Installation
 
 * Install Python
-* Create a directory for thise files
-* Unzip these files
+* Create a directory for these files
+* Unzip these files into that directory
 * Start **entertainment_center.py**
 
 
