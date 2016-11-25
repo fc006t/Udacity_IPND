@@ -1,10 +1,27 @@
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+Final project containing 3 python files:
+
+fresh_tomatoes.py - a prebuilt codebase used to format and display movie information to a webbrowser
+
+media.py - my code to build a movie class to store movie informaton and provide a display method
+
+entertainment_center.py - my code which contains the movie data, instantiates the movie objects and calls the movie display method
+
+
 
 ## Code Example
+Movie objects are instantiated in "entertainment_center.py" as follows:
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+godfather = media.Movie("The GodFather",
+                        "A light hearted frolic into the lives of a hilarious Italian family",
+                        "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+                        "https://www.youtube.com/watch?v=sY1S34973zA")
+                        
+                        
+Movie objects are displayed in "entertainment_center.py" as follows:
+
+fresh_tomatoes.open_movies_page(movies)                  
 
 ## Motivation
 
