@@ -1,6 +1,6 @@
 ## Synopsis
 
-Final project containing 3 python files:
+Final project containing :sparkles: 3 python files:
 
 fresh_tomatoes.py - a prebuilt codebase used to format and display movie information to a webbrowser
 
