@@ -13,15 +13,16 @@ entertainment_center.py - my code which contains the movie data, instantiates th
 ## Code Example
 Movie objects are instantiated in "entertainment_center.py" as follows:
 
-godfather = media.Movie("The GodFather",
+`godfather = media.Movie("The GodFather",
                         "A light hearted frolic into the lives of a hilarious Italian family",
                         "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
                         "https://www.youtube.com/watch?v=sY1S34973zA")
-                        
+`                        
                         
 Movie objects are displayed in "entertainment_center.py" as follows:
 
-fresh_tomatoes.open_movies_page(movies)                  
+`fresh_tomatoes.open_movies_page(movies)                  
+`
 
 ## Motivation
 
